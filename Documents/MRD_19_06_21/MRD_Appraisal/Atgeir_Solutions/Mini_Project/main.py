@@ -36,5 +36,5 @@ if(success==True):
 else:
     print("not working")
 
-
+df=pd.read_csv("D:/proj_csv/customer.csv")
 
